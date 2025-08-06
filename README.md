@@ -8,9 +8,6 @@ Lumanagi Trade Games is a new blockchain-based trading game with an innovative e
 
 - 🖥**Official Website**🖥: <https://lumanagi.com/>
 
-- 🎮**Live Link**🎮: <https://web.lumanagi.com/prediction>
-
-- ♾**Ideal Design**♾: <https://www.figma.com/file/dtXsE8KudyvKD27YCf4JFQ/Lumanagi-Dex?type=design&node-id=0-1&mode=design&t=22DUlYqf9GT4OLZQ-0>
 
 ### Install Dependencies
 
